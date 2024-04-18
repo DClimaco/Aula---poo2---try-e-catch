@@ -1,0 +1,8 @@
+C:\DevC\Aula 20240418\bin\Debug\Aula 20240418.exe.config
+C:\DevC\Aula 20240418\bin\Debug\Aula 20240418.exe
+C:\DevC\Aula 20240418\bin\Debug\Aula 20240418.pdb
+C:\DevC\Aula 20240418\obj\Debug\Aula 20240418.csproj.AssemblyReference.cache
+C:\DevC\Aula 20240418\obj\Debug\Aula 20240418.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula 20240418\obj\Debug\Aula 20240418.csproj.CoreCompileInputs.cache
+C:\DevC\Aula 20240418\obj\Debug\Aula 20240418.exe
+C:\DevC\Aula 20240418\obj\Debug\Aula 20240418.pdb
